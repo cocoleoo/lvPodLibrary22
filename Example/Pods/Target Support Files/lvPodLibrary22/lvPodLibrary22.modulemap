@@ -1,0 +1,6 @@
+framework module lvPodLibrary22 {
+  umbrella header "lvPodLibrary22-umbrella.h"
+
+  export *
+  module * { export * }
+}
